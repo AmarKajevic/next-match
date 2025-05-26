@@ -1,4 +1,4 @@
-
+"use client"
 
 import { NavbarItem } from "@heroui/react";
 import Link from "next/link";
